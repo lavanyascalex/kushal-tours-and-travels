@@ -1,7 +1,7 @@
 export const siteConfig = {
   name: "Kushal Tours & Travels",
   shortName: "Kushal Tours",
-  domain: "https://kushaltoursandtravels.in",
+  domain: "https://www.kushaltoursandtravels.in",
   description:
     "Explore cab rentals, airport transfers, outstation journeys, group travel and tour packages with Kushal Tours & Travels in Wakad, Pune.",
   phoneDisplay: "089833 43640",
