@@ -71,15 +71,7 @@ export default function SiteFooter() {
         </span>
 
         <span className="footer-credit">
-          Made by{" "}
-          <a
-            href="https://www.instagram.com/scalexstudios?vrfl=MWRqMDhndzZ5eWgyOQ%3D%3D"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="ScaleX Studios on Instagram"
-          >
-            ScaleX Studios <ArrowUpRight size={12} />
-          </a>
+          Made by ScaleX Studios
         </span>
       </div>
     </footer>
